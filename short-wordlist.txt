@@ -48,8 +48,18 @@ database.sql
 /temp.sql
 /_includes/framer.php
 *{{/env-config.js}}*
-
+/actuator/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/hosts
 /metrics
+/actuator/env
+/actuator/auditevents
+/actuator/beans
+/actuator/caches
+/actuator/configprops
+/actuator/health
+/actuator/heapdump
+/actuator/info
+/actuator/integrationgraph
+/actuator/configprops
 /vendor/credentials
 Release.zip
 /dump - 
