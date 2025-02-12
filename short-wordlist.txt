@@ -18,6 +18,7 @@ camunda/app/welcome/default/#!/login
 admin/config.php
 administrator/webconfig.txt.php
 app.config
+wd/plsql/
 audit.config
 Cassini.exe.config
 ccnet.config
