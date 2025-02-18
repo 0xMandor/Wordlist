@@ -26,6 +26,8 @@ Cassini.exe.config
 ccnet.config
 cgi-bin/config.exp
 conceptual.config
+api.bing.com/osjson.aspx
+api/javascript-errors
 config
 config.inc
 config.inc.php
