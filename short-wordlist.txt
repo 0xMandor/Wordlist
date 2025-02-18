@@ -12,6 +12,8 @@ api/v1/image_proxy?url=
 database.sql
 camunda/app/welcome/default/#!/login
 .config.php
+ganglia/
+ganglia/?c=ElastiCluster&m=load_one&r=hour&s=by%20name&hc=4&mc=2
 .git/config
 ////../../data/config/microsrv.cfg
 //admin/config.php
