@@ -28,6 +28,8 @@ cgi-bin/config.exp
 conceptual.config
 api.bing.com/osjson.aspx
 api/javascript-errors
+/ganglia/
+/ganglia/?c=ElastiCluster&m=load_one&r=hour&s=by%20name&hc=4&mc=2
 config
 config.inc
 config.inc.php
